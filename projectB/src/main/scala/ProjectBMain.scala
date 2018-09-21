@@ -1,3 +1,1 @@
-object ProjectBMain {
-
-}
+object ProjectBMain {}
